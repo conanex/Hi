@@ -3,8 +3,8 @@ import time
 import re
 
 CODE="big5"
-USER_ID="wclab5566"
-USER_PW="wclab"
+USER_ID=
+USER_PW=
 INFILENAME="name_test.txt"
 OUTFILENAME="record.txt"
 
